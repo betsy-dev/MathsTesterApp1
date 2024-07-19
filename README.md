@@ -13,3 +13,8 @@ Their positive feedback on both the functionality and design of the app has moti
 - **Basic Addition**: Users can input two numbers and receive the sum.
 - **Basic Multiplication**: Users can input two whole numbers and receive the product.
 - **User-Friendly Design**: The app features a fun, clean and intuitive interface for easy navigation.
+
+To view the project:
+-Click on "Code"
+-Select "Open with Visual Studio" or "Download the ZIP folder". 
+
